@@ -1,5 +1,3 @@
-Google Cloud Tutorial for Data Scientist
-
 ---
 title: "Ch01_getstarted"
 date: 2020-04-16T11:40:30+09:00
